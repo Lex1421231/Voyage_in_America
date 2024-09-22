@@ -61,8 +61,8 @@ body {
   font-style: italic;
   padding: 30px; }
 .title--fotocont {
-  max-height: 500px;
-  max-width: 500px;
+  max-height: 100%;
+  max-width: 1200px;
   margin-left: 20px;
   margin-right: 20px;
   overflow: hidden;
@@ -176,6 +176,8 @@ body {
     font-size: 18px; }
 
   .title--flag {
+    font-size: 30px; }
+  .title--gallery {
     font-size: 30px; }
   .title--img {
     height: 22px; }
