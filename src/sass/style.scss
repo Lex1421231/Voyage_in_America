@@ -126,6 +126,24 @@ body {
         &--img {
             height: 30px;
         }
+
+        &--fixed {
+            height: 800px;
+            background-image: url(/src/img/foto/foto3.jpg);
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: cover;
+            background-attachment: local;
+        }
+
+        &--story {
+            height: 900px;
+            background-image: url(/src/img/foto/foto13.jpg);
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: cover;
+            background-attachment: local;
+        }
     }
 
     .text {
