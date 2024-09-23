@@ -155,14 +155,14 @@ body {
     background-image: url(/src/img/bg1.jpg);
     background-repeat: no-repeat;
     background-position: center;
-    background-size: cover;
+    background-size: contain;
     background-attachment: fixed; }
   .title--story {
     height: 900px;
     background-image: url(/src/img/bg2.png);
     background-repeat: no-repeat;
     background-position: center;
-    background-size: cover;
+    background-size: contain;
     background-attachment: fixed; }
 
   .text--story {
