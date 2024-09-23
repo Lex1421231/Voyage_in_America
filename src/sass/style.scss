@@ -175,20 +175,12 @@ body {
 
         &--fixed {
             height: 800px;
-            background-image: url(/src/img/bg1.jpg);
-            background-repeat: no-repeat;
-            background-position: center;
-            background-size: contain;
-            background-attachment: fixed;
+            background-attachment: local;
         }
 
         &--story {
             height: 900px;
-            background-image: url(/src/img/bg2.png);
-            background-repeat: no-repeat;
-            background-position: center;
-            background-size: contain;
-            background-attachment: fixed;
+            background-attachment: local;
         }
     }
 
